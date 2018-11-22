@@ -1,5 +1,6 @@
 import Head from 'next/head';
 
+// meta tags normally found in an index.html
 const Meta = () => (
 	<Head>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
